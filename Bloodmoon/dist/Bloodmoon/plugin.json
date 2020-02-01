@@ -1,0 +1,25 @@
+{
+  "slug": "Bloodmoon",
+  "name": "Bloodmoon",
+  "version": "1.0.0",
+  "license": "GPL3.0",
+  "brand": "Bloodmoon",
+  "author": "zeol",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Bloodmoon",
+      "name": "Bloodmoon",
+      "description": "Colorization Panel",
+      "tags": [
+        "Blank"
+      ]
+    }
+  ]
+}
